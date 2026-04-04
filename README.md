@@ -255,13 +255,13 @@ Built as an advanced AI systems project demonstrating real-world agentic archite
 
 ---
 
-##Demo Output
+## Demo Output
 
 (venv) PS E:\agentic-farm-ai> python main.py
 
 ==============================
 
-RUN 1
+### RUN 1
 📡 INPUT:
 {
   'crop': 'Wheat',
@@ -289,9 +289,9 @@ Based on the provided data and previous recommendations, I would generate a fina
 
 Given the current data, I would recommend maintaining normal irrigation and applying nitrogen-rich fertilizer to optimize wheat crop growth.
 
-RUN 2
-
 ==============================
+
+### RUN 2
 
 📡 INPUT:
 {
