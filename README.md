@@ -313,4 +313,4 @@ Based on the provided data and previous recommendations, I would recommend the f
 ["irrigation"]
 
 The current soil moisture level is 60%, which indicates that irrigation should be implemented to reduce the risk of overwatering and root rot.
-##Give it a star ⭐ and explore further improvements!
+## Give it a star ⭐ and explore further improvements!
