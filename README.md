@@ -260,7 +260,20 @@ Built as an advanced AI systems project demonstrating real-world agentic archite
 (venv) PS E:\agentic-farm-ai> python main.py
 
 ==============================
-📡 INPUT: {'crop': 'Wheat', 'soil_moisture': 55, 'soil_temp': 31, 'air_temp': 18.5, 'humidity': 39, 'soil_ph': 6.9, 'nitrogen': 30, 'phosphorus': 45, 'potassium': 39}
+
+RUN 1
+📡 INPUT:
+{
+  'crop': 'Wheat',
+  'soil_moisture': 55,
+  'soil_temp': 31,
+  'air_temp': 18.5,
+  'humidity': 39,
+  'soil_ph': 6.9,
+  'nitrogen': 30,
+  'phosphorus': 45,
+  'potassium': 39
+}
 
 🌱 FINAL DECISION:
 
@@ -276,8 +289,22 @@ Based on the provided data and previous recommendations, I would generate a fina
 
 Given the current data, I would recommend maintaining normal irrigation and applying nitrogen-rich fertilizer to optimize wheat crop growth.
 
+RUN 2
+
 ==============================
-📡 INPUT: {'crop': 'Wheat', 'soil_moisture': 60, 'soil_temp': 33, 'air_temp': 18.5, 'humidity': 65, 'soil_ph': 7.0, 'nitrogen': 54, 'phosphorus': 31, 'potassium': 22}
+
+📡 INPUT:
+{
+  'crop': 'Wheat',
+  'soil_moisture': 60,
+  'soil_temp': 33,
+  'air_temp': 18.5,
+  'humidity': 65,
+  'soil_ph': 7.0,
+  'nitrogen': 54,
+  'phosphorus': 31,
+  'potassium': 22
+}
 
 🌱 FINAL DECISION:
 
@@ -286,6 +313,4 @@ Based on the provided data and previous recommendations, I would recommend the f
 ["irrigation"]
 
 The current soil moisture level is 60%, which indicates that irrigation should be implemented to reduce the risk of overwatering and root rot.
-## ⭐ If you like this project
-##Note: demo.png image is also uplaoded
 ##Give it a star ⭐ and explore further improvements!
